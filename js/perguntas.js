@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado "Qual é a principal diferença entre a cozinha francesa e a cozinha italiana?",
+        enunciado: "Qual é a principal diferença entre a cozinha francesa e a cozinha italiana?",
         alternativas: [
             {
                 texto: "a) A cozinha francesa usa mais técnicas de alta gastronomia, enquanto a italiana foca em pratos simples e rústicos.",
